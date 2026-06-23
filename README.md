@@ -96,7 +96,7 @@ This Power BI dashboard analyzes e-commerce sales performance and customer behav
 
 ## 📷 Dashboard Preview
 
-[Dashboard Preview](Screenshot 2026-06-23 151736.png)
+![Dashboard Preview](Screenshot%202026-06-23%20151736.png)
 
 ---
 
